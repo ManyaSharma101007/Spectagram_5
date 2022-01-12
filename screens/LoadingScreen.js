@@ -1,5 +1,6 @@
 import React from 'react';
 import {ActivityIndicator,View} from 'react-native';
+import firebase from "firebase";
 
 export default class LoadingScreen extends React.Component {
 
